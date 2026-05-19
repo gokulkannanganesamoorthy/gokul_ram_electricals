@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /ganesamoorthy.png
 Crawl-delay: 1
 
 # Sitemaps
